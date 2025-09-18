@@ -16,7 +16,7 @@
     "react-apexcharts": "^1.7.0",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.30.0",
-    "react-syntax-highlighter": "^15.6.1",
+    "react-syntax-highlighter": "^15.6.6",
     "react-timeago": "^7.2.0"
   },
   "scripts": {
